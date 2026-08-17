@@ -129,3 +129,4 @@ City-Police-Crime-Analysis/
 ## Conclusion
 
 The City Police Crime Analysis Dashboard provides a structured approach to understanding crime patterns and operational challenges. By combining **crime frequency, location, severity, case status, and financial impact**, the project demonstrates how data analytics can support more effective and informed police resource allocation.
+
