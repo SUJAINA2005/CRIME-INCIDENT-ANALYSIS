@@ -1,4 +1,5 @@
 # City Police Crime Analysis & Interactive Excel Dashboard
+<img width="1205" height="544" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e8f3b448-0069-4553-8f2e-2ed580562991" />
 
 ## Project Overview
 
